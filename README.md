@@ -1,4 +1,16 @@
 # Tech
+
+<body>
+    
+    <ul>
+    
+      <li>Lorem</li>
+      <li>Ipsum</li>
+      <li>Dolor</li>
+    </ul>
+</body>
+
+
 Java , XML language
 
 Google Firebase
