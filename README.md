@@ -3,12 +3,15 @@
 <body>
     Java , XML language
 
-Google Firebase
+
+<ol> Google Firebase </ol>
+
 
 <li>Authentication</li>
-Push
-Storge
-Realtime-Database
+<li>Push</li>
+<li>Storge</li>
+<li>Realtime-Database</li>
+
 Google CloudFlatForm(GoogleMap)
 
 Android inapp billing
