@@ -12,7 +12,7 @@ Google CloudFlatForm(GoogleMap)
 
 Android inapp billing
 
-Screenshots
+UI
 -------------
 Login/SignUp
 
