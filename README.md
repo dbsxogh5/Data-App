@@ -1,17 +1,7 @@
 # Tech
 
 <body>
-    
-    <ul>
-    
-      <li>Lorem</li>
-      <li>Ipsum</li>
-      <li>Dolor</li>
-    </ul>
-</body>
-
-
-Java , XML language
+    Java , XML language
 
 Google Firebase
 
@@ -22,6 +12,11 @@ Realtime-Database
 Google CloudFlatForm(GoogleMap)
 
 Android inapp billing
+   
+</body>
+
+
+
 # UI
 <img src="https://user-images.githubusercontent.com/37282131/83721042-42c7db80-a675-11ea-8b7a-378e06f58256.png" ></img>
 <img src="https://user-images.githubusercontent.com/37282131/83721521-31cb9a00-a676-11ea-9643-c21d56089c24.png" ></img>
