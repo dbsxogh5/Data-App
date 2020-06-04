@@ -1,10 +1,10 @@
 # Tech
 
-<body>
-    
-    Java , XML language
-    
  <br>
+   
+ Java , XML language
+    
+ 
  Google Firebase 
  <br>
 <li>Authentication</li>
@@ -16,8 +16,7 @@
 Google CloudFlatForm(GoogleMap)
 
 Android inapp billing
-   
-</body>
+
 
 
 
