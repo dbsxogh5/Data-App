@@ -6,11 +6,12 @@
 
 <ol> Google Firebase </ol>
 
-
+<br>
 <li>Authentication</li>
 <li>Push</li>
 <li>Storge</li>
 <li>Realtime-Database</li>
+<br>
 
 Google CloudFlatForm(GoogleMap)
 
